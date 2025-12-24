@@ -1,0 +1,8 @@
+{
+  "name": "Zaki portfloio",
+  "description": "A cutting-edge, responsive personal portfolio featuring a built-in Gemini AI assistant that can answer questions about the owner's skills and experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
